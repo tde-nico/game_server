@@ -2,7 +2,6 @@
 
 <!--
 #groups
-Games
 
 #languages
 Python
